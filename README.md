@@ -26,7 +26,7 @@ The Excel file `FNP_Sales_Dashboard.xlsx` includes **5 worksheets:**
 ---
 
 ## 📈 Dashboard Preview
-![Revenue by Category](charts/revenue_by_category.png)
+![Revenue by Category](https://github.com/poojainsightsnine/FNP_Sales_Analysis_Excel_Dashboard/blob/main/Revenue.png)
 
 ---
 ## 📊 Key Insights
