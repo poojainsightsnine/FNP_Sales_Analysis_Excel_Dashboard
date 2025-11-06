@@ -1,5 +1,4 @@
-# FNP_Sales_Analysis_Excel_Dashboard
-# 📊 Excel Sales Dashboard Analysis
+# FNP_Sales_Analysis_Excel_Dashboar
 
 ### 👩‍💻 Created by: Pooja Parashar  
 **Role Focus:** Data Analyst   
@@ -26,9 +25,8 @@ The Excel file `FNP_Sales_Dashboard.xlsx` includes **5 worksheets:**
 ---
 
 ## 📈 Dashboard Preview
-![Revenue by Category](https://github.com/poojainsightsnine/FNP_Sales_Analysis_Excel_Dashboard/blob/main/Revenue.png)
+Revenue By Category ---<img width="870" height="411" alt="Screenshot 2025-11-05 145253" src="https://github.com/user-attachments/assets/3ec4b2da-121b-4355-b12b-eca6e3fcb46c" />
 
----
 ## 📊 Key Insights
 
 **Top Performing Category:**  
