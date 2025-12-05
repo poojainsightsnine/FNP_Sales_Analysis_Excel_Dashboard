@@ -1,4 +1,4 @@
-# FNP_Sales_Analysis_Excel_Dashboar
+## FNP_Sales_Analysis_Excel_Dashboard
 
 ### 👩‍💻 Created by: Pooja Parashar  
 **Role Focus:** Data Analyst   
